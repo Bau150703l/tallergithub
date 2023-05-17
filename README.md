@@ -1,2 +1,0 @@
-# tallergithub
-ejercicio de taller
